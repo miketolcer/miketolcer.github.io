@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(https://wallpapercave.com/wp/wp2815529.jpg);
+    background-size: cover;
+    background-attachment: fixed
+}
+.mike {
+    margin-left: 80px;
+    color: antiquewhite;
+    font-family:'Courier New', Courier, monospace ;font-size: 70px;
+    text-shadow: 10px 10px black;
+    
+}
+.tolcer{
+    writing-mode: vertical-lr;
+    margin-left: 230px;
+    color: antiquewhite;
+    font-family:'Courier New', Courier, monospace ;font-size: 90px;
+    text-shadow: 10px 10px black;
+    margin-top: -50px;
+    padding: 0;
+}
+#git{
+    max-width: 70px;
+    border-radius: 40px;
+    margin-left:330px;
+    margin-top: -20%;
+    
+}
+a {
+    color: ivory;
+    font-family:'Courier New', Courier, monospace ;font-size: 15px;
+    margin-left: 1%;
+    margin-top: -21%;
+}
